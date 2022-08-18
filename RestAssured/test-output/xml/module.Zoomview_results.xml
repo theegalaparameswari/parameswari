@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="89.050">
+    <properties></properties>
+
+
+
+            <testcase
+                name="main"
+                time="89.050"
+                classname="module.Zoomview">
+            </testcase>
+</testsuite>
